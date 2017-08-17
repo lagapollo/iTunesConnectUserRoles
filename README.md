@@ -36,7 +36,7 @@ Admin
 
 <td colspan="8">
 
-*   Access to all sections within iTunes Connect.
+* Access to all sections within iTunes Connect.
 
 *   Give other users access to the different parts of iTunes Connect and [iTunes Connect for iOS](#/dev31f8af6b7).
 
@@ -262,7 +262,7 @@ Reports
 
 <td colspan="8">
 
-*   This role can’t be assigned on its own; it can be added to users with the App Manager, Developer, Marketer, or Sales role.
+* This role can’t be assigned on its own; it can be added to users with the App Manager, Developer, Marketer, or Sales role.
 
 *   Download reports associated with their primary role.
 
@@ -270,7 +270,8 @@ Reports
 
 <div class="Alert">
 
-**Note:** Admin and Finance users have the Reports role by default.
+**Note:**
+Admin and Finance users have the Reports role by default.
 
 </div>
 
@@ -280,8 +281,4 @@ Reports
 
 </tbody>
 
-</table>
-
-<div class="LinkUniversal">**See also**[User accounts and roles overview](#/devad498718e)[Role permissions](#/deve5f9a89d7)</div>
-
-</div>a
+</table> 
